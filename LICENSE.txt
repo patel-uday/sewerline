@@ -1,0 +1,4 @@
+SEWERLINE source code and generated assets are provided under the MIT License.
+Copyright (c) 2026 SEWERLINE contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies, subject to including this notice. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

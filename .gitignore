@@ -1,0 +1,12 @@
+/build/
+/build-check/
+/.vs/
+/out/
+/release/
+/tmp/
+/SEWERLINE-portable.zip
+/SEWERLINE-portable.7z
+*.user
+*.suo
+*.pdb
+*.obj
